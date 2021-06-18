@@ -1,0 +1,15 @@
+{
+  "name": "tactic-parser-node",
+  "version": "1.0.0",
+  "description": "TL Sol Test",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jforeza",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0"
+  }
+}
