@@ -12,10 +12,11 @@ This node script parses data for TripleLift.
 
 ### Step 1:
 
-Clone the repository.
+Clone the repository and CD into it.
 
 ```
 git clone https://github.com/foreza/urban-happiness.git
+cd urban-happiness/
 ```
 
 ### Step 2: 
