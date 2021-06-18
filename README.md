@@ -48,3 +48,10 @@ node parser.js sample_data/tactic.csv`
 You'll get a CSV with any URLs that failed in the data set.
 
 Consult the `sample_data` directory for examples.
+
+Output file name will be in the project root directory Example:
+`failed-url-results-1624042470603.csv`
+
+
+## TODO:
+- Revamp how requests are batched and sent.
